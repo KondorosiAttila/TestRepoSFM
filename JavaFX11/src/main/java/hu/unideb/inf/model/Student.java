@@ -63,5 +63,5 @@ public class Student implements Serializable {
         
     }
     
-    
+    //Most ezt a kicsit próbálom meg
 }
