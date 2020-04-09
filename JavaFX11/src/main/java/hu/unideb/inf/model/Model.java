@@ -8,7 +8,7 @@ package hu.unideb.inf.model;
 import java.time.LocalDate;
 
 /**
- *
+ * testing the Git 
  * @author hallgato
  */
 public class Model {
